@@ -1,12 +1,8 @@
 # website
 
-Libresource official website
+Libresource official website ([libresource.info](https://libresource.info/))
 
 <hr>
-
-#### Workflows
-[![Tests](https://github.com/libresource/website/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/libresource/website/actions/workflows/run-tests.yml)
-[![Pylint](https://github.com/libresource/website/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/libresource/website/actions/workflows/lint.yml)
 
 #### Support
 [![Documentation](https://img.shields.io/badge/docs-0094FF.svg)][documentation_path]
@@ -52,8 +48,6 @@ Libresource official website
 - [Mission](#mission)
 - [Open Source Project](#open-source-project)
 - [Features](#features)
-- [Requirements](#requirements)
-- [Quickstart](#quickstart)
 - [Contributing](#contributing)
 - [Developer Documentation](#developer-documentation)
 - [FAQ](#faq)
@@ -64,7 +58,7 @@ To Provide infromation about **Libresource** organization
 
 ## Open Source Project
 
-This is the open source project with [GNU Public v3](LICENSE). 
+This is the open source project with [GPL-3.0 license](LICENSE). 
 Be free to use, fork, clone and contribute.
 
 ## Features
