@@ -1,4 +1,0 @@
-FAQ
----
-
-No FAQs yet
